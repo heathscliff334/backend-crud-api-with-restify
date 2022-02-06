@@ -1,5 +1,5 @@
 ## backend-crud-api-with-restify
-# Run the app
+# Run The App
 To run the app you can use 
 <pre>node app.js</pre>
 or
