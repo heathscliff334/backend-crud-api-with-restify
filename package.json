@@ -1,0 +1,24 @@
+{
+    "name": "online_attendance_api_service",
+    "version": "1.0.0",
+    "description": "api service",
+    "main": "app.js",
+    "author": "Kevin Laurence (Heathscliff334)",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "body-parser": "^1.19.0",
+        "crypto": "^1.0.1",
+        "dotenv": "^10.0.0",
+        "jsonwebtoken": "^8.5.1",
+        "mysql": "^2.18.1",
+        "restify": "^8.6.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.14"
+    },
+    "scripts": {
+        "start": "node app",
+        "dev": "nodemon app"
+    }
+}
