@@ -4,7 +4,7 @@ To run the app you can use
 <pre>node app.js</pre>
 or
 <pre>npm run dev</pre>
-# URL:
+# API URL:
 <h3>POST</h3>
 <pre>localhost:5001/api/auth</pre>
 note: to get the header authorization token
