@@ -15,6 +15,10 @@ note: to get the header authorization token
 
 <h3>GET</h3>
 <pre>localhost:5001/api/checklists</pre>
+or using query parameter
+<pre>localhost:5001/api/checklists?limit=10&offset=0&sort=desc</pre>
+
+<h3>GET</h3>
 <pre>localhost:5001/api/checklists/:id</pre>
 
 <h3>POST</h3>
