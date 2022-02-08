@@ -1,5 +1,5 @@
 {
-    "name": "online_attendance_api_service",
+    "name": "kevin-laurence-backend-crud-with-restify",
     "version": "1.0.0",
     "description": "api service",
     "main": "app.js",
